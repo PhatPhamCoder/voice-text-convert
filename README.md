@@ -3,7 +3,7 @@ Tạo môi trường venv
 ```
 ## Truy cập đường dẫn thư mục home/ptech/ và tạo folder lưu source
 
-``
+```
 mkdir ~/flaskApp
 ```
 
