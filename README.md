@@ -11,7 +11,10 @@ mkdir ~/flaskApp
 cd ~/flaskApp
 ```
 ## Tạo môi trường đặt tên là teton trong thư mục chưa source
+
+```
 python3 -m venv teton
+```
 
 ## Kích hoạt môi trường ảo venv vừa tạo
 ```
