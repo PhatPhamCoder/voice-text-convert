@@ -3,21 +3,24 @@ Tạo môi trường venv
 ```
 ## Truy cập đường dẫn thư mục home/ptech/ và tạo folder lưu source
 
+``
 mkdir ~/flaskApp
+```
 
+```
 cd ~/flaskApp
-
+```
 ## Tạo môi trường đặt tên là teton trong thư mục chưa source
 python3 -m venv teton
 
 ## Kích hoạt môi trường ảo venv vừa tạo
-
+```
 source /home/ptech/env/teton/bin/active
-
+```
 ## Cài dặt các thư viện trong thư mục requirements.txt
-
+```
 pip install -r requirements.txt
-
+```
 ## Cài đặt ffmpeg và ffprobe cho thư viện Pydub
 
 ### Download the latest git build.
