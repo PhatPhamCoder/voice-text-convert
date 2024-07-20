@@ -3,3 +3,4 @@ gTTS==2.2.3
 SpeechRecognition==3.8.1
 pydub
 Werkzeug==2.2.2
+pyttsx3
